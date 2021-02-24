@@ -1,2 +1,2 @@
 <h1 align='center'>Titanic Machine Learning from Disaster</h1>
-<p align='center'>For the report of this project, kindly refer to the Report folder.</p>
+<p align='center'>For the report of this project, kindly refer to the Report folder or click (https://drive.google.com/file/d/1k0o5xiNWo7GVhZKx3UpXCW_NcS4u0rD9/view?usp=sharing).</p>
